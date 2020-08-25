@@ -1,6 +1,7 @@
 <<<<<<< HEAD
 # Starter Web Project
 ## Intro
+Text
 ## Purpose
 ## How to contribute
 =======
