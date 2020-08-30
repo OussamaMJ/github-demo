@@ -1,7 +1,5 @@
-a
+a as apple add
 b
-c
+e flip
 
-j
-k
-l
+del ijk
