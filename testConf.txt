@@ -2,11 +2,13 @@ a as apple add
 b
 c
 
-o
+o as oster
 
 j
 k
 l
 After rebase and merge 
 Before conflicts
-<Hello All fom feature branch>
+<Hello All fom master branch>
+
+in the master ...........
