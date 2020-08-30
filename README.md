@@ -1,6 +1,6 @@
 # Starter Web Project
 ## Intro
-Text. Adding a line for rebase example
+Text. Adding a line for rebase example, then more changes from myfeature brach too
 ## Purpose
 ## How to contribute
 # github-demo
