@@ -8,3 +8,6 @@ A Simple Demo to Show Git WorkFlow
 
 # Copyright 
 OMJ
+
+# Instructions 
+Instructions about how to contribute
