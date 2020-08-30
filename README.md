@@ -1,6 +1,6 @@
 # Starter Web Project
 ## Intro
-Text
+Text. Adding a line for rebase example
 ## Purpose
 ## How to contribute
 # github-demo
