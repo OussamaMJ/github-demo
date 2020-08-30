@@ -7,5 +7,6 @@ o
 j
 k
 l
-
+After rebase and merge 
+Before conflicts
 <Hello All fom feature branch>
