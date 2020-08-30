@@ -2,10 +2,9 @@ a as apple add
 b
 c
 
-o as oster
+o as oster n
 
 j
-k
 l
 After rebase and merge 
 Before conflicts
