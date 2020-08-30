@@ -4,12 +4,9 @@ c
 
 o as oster n
 
-j
-l
 After rebase and merge 
 Before conflicts
 <Hello All fom master branch>
 This is in big trouble branch 
 in the master ...........
-
 Remote change
